@@ -2,7 +2,7 @@
 
 ### Instructions:
 
-In this project, build a copy a website:
+In this project, build a copy of a website:
 
 You should recreate any buttons, navigation, images, forms, etc. that exist on your chosen website, but they do not need to function (Ex: a form does not need to actually submit any information, links don't need to go to another page, etc.). 
 
