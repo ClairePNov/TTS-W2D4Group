@@ -1,5 +1,12 @@
+.navbar-right{
+  width: 80%;
+}
+.logo {
+  width:10%;
+}
+.
 
-.grid {
+grid {
     display: grid;
     border: 2px blue solid;
     height: 500px;
@@ -7,7 +14,9 @@
     grid-template: repeat(4, 1fr 2fr) / repeat(4, 3fr 2fr);
     gap: 5px;
   }
-
+card {
+  background-color: blue;
+}
 #content {
     width: 600px;
     background: #fff;
@@ -31,4 +40,13 @@
 
 <!--.column { 
     margin: 20px;
+}
+
+.card-text-left{
+  width: 50%;
+}
+
+.main-box {
+  width="span"
+  background-color: purple;
 }
