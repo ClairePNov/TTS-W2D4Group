@@ -1,5 +1,12 @@
+.navbar-right{
+  width: 80%;
+}
+.logo {
+  width:10%;
+}
+.
 
-.grid {
+grid {
     display: grid;
     border: 2px blue solid;
     height: 500px;
