@@ -14,7 +14,9 @@ grid {
     grid-template: repeat(4, 1fr 2fr) / repeat(4, 3fr 2fr);
     gap: 5px;
   }
-
+card {
+  background-color: blue;
+}
 #content {
     width: 600px;
     background: #fff;
@@ -38,4 +40,13 @@ grid {
 
 <!--.column { 
     margin: 20px;
+}
+
+.card-text-left{
+  width: 50%;
+}
+
+.main-box {
+  width="span"
+  background-color: purple;
 }
